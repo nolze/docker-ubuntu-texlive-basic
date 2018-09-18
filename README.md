@@ -1,8 +1,15 @@
 # docker-ubuntu-texlive-basic
 
+[![Docker Automated build](https://img.shields.io/docker/automated/nolze/ubuntu-texlive-basic.svg)](https://hub.docker.com/r/nolze/ubuntu-texlive-basic/)
+[![Docker Image Size](https://images.microbadger.com/badges/image/nolze/ubuntu-texlive-basic.svg)](https://microbadger.com/images/nolze/ubuntu-texlive-basic "Get your own image badge on microbadger.com")
+
 Small TeX Live image on Ubuntu base, intended for automated build on CI tool.
 
 Forked from [Paperist/docker-alpine-texlive-ja](https://github.com/Paperist/docker-alpine-texlive-ja).
+
+## Forks
+
+* Japanese: [nolze/docker-ubuntu-texlive-ja](https://github.com/nolze/docker-ubuntu-texlive-ja)
 
 ## Usage
 
