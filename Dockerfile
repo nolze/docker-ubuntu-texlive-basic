@@ -2,7 +2,7 @@ FROM ubuntu
 
 MAINTAINER nolze <nolze@archlinux.us>
 
-ARG CTAN_MIRROR="http://ftp.yz.yamagata-u.ac.jp/pub/CTAN/systems/texlive/tlnet/"
+ARG CTAN_MIRROR="http://mirror.ctan.org/systems/texlive/tlnet/"
 ARG TEXLIVE_VERSION="2018"
 
 ENV PATH /usr/local/texlive/$TEXLIVE_VERSION/bin/x86_64-linux:$PATH
